@@ -30,3 +30,7 @@ section#featured-property p {
   margin-right: auto;
   margin-left: auto;
 }
+
+section#details {
+  display: block;
+}
