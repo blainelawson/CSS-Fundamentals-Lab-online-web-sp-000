@@ -17,3 +17,7 @@ h1 {
 * {
   color: yellow;
 }
+
+img {
+  align-self: center;
+}
